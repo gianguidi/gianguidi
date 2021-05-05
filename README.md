@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gianguidi
-- 🤓 I’m currently deeply learning, Deep Learning
+
 - 🌍🌱 I’m looking to collaborate on SDGs related projects, and in general on AI projects for social good 
 - 📫 You can reach me out on here!
 
