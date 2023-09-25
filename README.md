@@ -7,7 +7,7 @@
 
 - 🤝 Hit me up if you're looking to collaborate on AI projects for social good!
 
-- 📫 You can reach me out on here, or @ gianluca.guidi[at]phd.unipi.it 
+- 📫 You can reach me out @ gianluca.guidi[at]phd.unipi.it 
 
 <!---
 gianguidi/gianguidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
