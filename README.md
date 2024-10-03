@@ -1,6 +1,7 @@
 ### - 👋 Hi there,this is @gianguidi
 
-- 👨‍💻 I am a Phd Student in Artificial Intelligence @ University of Pisa 
+- 👨‍💻 I am a PhD Student in Artificial Intelligence @ University of Pisa 🇮🇹
+- 🔎 I am a PhD Visiting Scholar @ Harvard School of Public Health 🇺🇸
 - 👥 I am part of the Networks Research Unit @ IMT, School of Advanced Studies, Lucca
 
 - 🌍🌱 My research focuses on real-world applications of Machine Learning for Graphs, addressing Sustainable Development Goals, e.g. sustainability, social equity and renewable energy.
