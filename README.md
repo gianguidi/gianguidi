@@ -1,7 +1,7 @@
 ### - 👋 Hi there,this is @gianguidi
-- 👨‍💻 I am a Postdoctoral Fellow @ Harvard
+- 👨‍💻 I am a Postdoctoral Fellow @ Harvard University
 - 🎓 I obtained my PhD in Artificial Intelligence from University of Pisa and IMT School of Advanced Studies (Lucca) 🇮🇹
-- 🔎 I have been a PhD Visiting Scholar @ Harvard 🇺🇸
+- 🔎 I have been a PhD Visiting Scholar @ Harvard University 🇺🇸
 - 👥 I was part of the Networks Research Unit @ IMT, School of Advanced Studies, Lucca
 
 - 🌍🌱 My research focuses on real-world applications of Data Science and Machine Learning, addressing Sustainable Development Goals, e.g. climate change, public health, social equity.
